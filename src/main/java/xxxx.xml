@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<configuration>
+
+<property>
+	<name>top.n</name>
+	<value>15</value>
+</property>
+	
+</configuration>
